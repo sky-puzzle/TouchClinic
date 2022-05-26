@@ -98,6 +98,7 @@ flutter:
      - assets/images/pic5.jpg
      - assets/images/pic6.jpg
      - assets/icons/img.png
+     - assets/images/img.png
      - assets/icons/img_1.png
      - assets/icons/img_2.png
      - assets/icons/img_3.png
